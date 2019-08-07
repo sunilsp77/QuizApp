@@ -1,0 +1,11 @@
+.RadioButton {
+  width: 5%;
+  height: 1.5em;
+}
+.label {
+  font-size: x-large;
+  vertical-align: text-bottom;
+}
+.header {
+  padding: 1%;
+}
